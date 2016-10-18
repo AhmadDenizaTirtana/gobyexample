@@ -1,1 +1,0 @@
-# contoh seko go
