@@ -1,1 +1,0 @@
-# Contoh seko Go dab
